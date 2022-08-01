@@ -1,0 +1,2 @@
+Season    CropType    PlantDate      PlantSimDate        HarvestDate    HarvestSimDate      Yield       TotIrr      
+1         Maize       01/05/2010     1                   24/09/2010     147                 12.66       0.00        
