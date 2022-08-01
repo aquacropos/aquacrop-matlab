@@ -1,4 +1,0 @@
-%% ------------------- Enter Location of Input files ------------------- %%
-C:/AquaCropOS/Code/Input
-%% ------------------ Enter Location of Output files ------------------- %%
-C:/AquaCropOS/Output
